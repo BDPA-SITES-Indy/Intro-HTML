@@ -1,0 +1,61 @@
+kayla barlow
+HTML Tutorial Notes:
+
+“Introduction to HTML” - 00 
+Hyper Text Markup Language - HTML
+Document that contains text 
+Web browsers read & display documents that contain HTML
+< > - angle brackets contain tag 
+<body> something inside here </body> 
+Start tag with only bracket, end tag with slash 
+Together they form a markup element ; a set of tags with something inside them 
+<BR> - this is a line break
+Empty element  because it does not contain anything and therefore doesn't need a closed tag 
+
+“Creating the First Web Page” - 01
+Step One: doctype declaration 
+1st step: use doctype declaration to tell the browser what type of document to open
+Use <!doctype html> to make a doctype declaration for html
+Step Two: Html element 
+Use html to make a markup element 
+Ie. <html> </html>
+Everything in the document will go between these two html tags
+Step Three: Head Section
+Need head element 
+Ie. <head> </head>
+This section contains the title, but can also be used to identify the language of the page (such as english, Spanish, etc.) 
+Step Four: Title Element 
+The title element will show up on the title page of the web browser 
+Embed the title element in the head element 
+Ie. <title> my webpage </title>
+Step Five: Body Element 
+The body element holds the content of the web page & is the primary section of web page  
+Ie. <body> </body>
+Step Six: Put Content in Body Element
+Heading 
+Ie. <h1> title </h1>
+Will create larger title for the website section 
+Paragraph 
+Ie. <p1> everything about me is in this website </h1>
+Creates a paragraph for text 
+Second Heading
+Ie. <h2> my hobbies are reading and writing </h2> 
+Creates a title for the non-primary section (with a smaller text) 
+Step Seven: Save Code on Desktop (Save As)
+Name file 
+Then minimize code & click on the file to view 
+
+“Lines Breaks, Comments, & Spacing ” - 02
+Line Breaks
+Use <br> for line breaks 
+Comments 
+Use (Ie.  <!-- this is the start of the html code for the second section and we will start each section with a header tag --> to include internal comments for code
+The code won’t show up on the website     
+Need explanation point to make sure it doesn't show up as text 
+Spacing 
+Use &nbsp to add additional spaces; can add as many as needed/wanted 
+Main Elements (from free code camp)
+<main> paragraphs nested inside </main>
+
+
+
