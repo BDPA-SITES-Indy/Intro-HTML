@@ -1,0 +1,9 @@
+ html is universal 
+ empty elements don't need an end tag
+ an html document is just a text file
+ doctype tells what type of file it is
+everything goes in between html
+h1 it the largest text font
+you have to use <br> for line breaks you can't just leave space
+comments are added with <!--comments-->
+&nbsp puts space between the words
