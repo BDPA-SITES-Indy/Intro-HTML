@@ -1,0 +1,21 @@
+kayla barlow 
+Html Video Notes Week 2:
+Video 03 - ordered & unordered lists 
+Unordered lists: <ul>
+Ordered Lists: <ol>
+BOTH use <li> list element tag
+Ie:
+Put in body: <ul> <li> CD <li>  </ul> 
+Video 04 - creating a table 
+Four Central Elements:
+<table> - which everything is embedded in 
+<tr> - table row
+<td> - table data 
+<th> - column 
+Ie:
+<table> <tr> <th> the planets <th> </tr> <td> earth </td> </table>
+Video 04 - creating a web link 
+<a> - anchor element used to add links 
+And attribute called href tells the anchor element where the destination is (might be website)
+Ie: <a href+”(url)”> Source (where the url comes form) </a>
+(Put that in paragraph)
