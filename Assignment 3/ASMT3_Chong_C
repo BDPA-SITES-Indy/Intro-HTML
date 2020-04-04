@@ -1,0 +1,41 @@
+#6
+Put a # in you <a> tag to tell your anchor element that it will link to somewhere on the webpage
+<a href= “#Text”>Additional text</a>
+To make the anchor element link to somewhere on the webpage, use this: <a name=” Text”> Additional text. </a>
+#7
+Insert an image into your webpage by using <img src=” Image.jpeg”>
+This tag doesn’t need to be closed 
+This tag should be in the <p>
+            #8
+ Resize images by changing the number of pixels in the photo
+<img src=” Image.jpeg” width=”000” height=”000”>
+The resize is done in the browser
+	#9
+A nested element is an element within another element
+The only element that cannot be nested in the Html element because it is a rooted element
+There are parent and child elements
+#10
+<form action=” ” methods= “ “>
+</form>
+<input type=” text” name= “ “
+Change the size of the text box by <input type=” text” name= “ “ size=”insert number”>
+	#11		
+<label for= “text”> additional text </label>
+Labels are tied to the input element 
+<input type=” text” id= “text” name= “ “> The id element has to match the label for=” “
+#12
+<textarea rows=” “ cols= “ “></textarea>
+You can type into this multi-line box
+You can add a submit option like this: <input type=”submit” value= “submit “
+	#13
+Radio buttons are made like this: 
+Yes:
+<input type=” radio” name=”yesorno” value=””
+No:
+<input type=” radio” name=”yesorno” value=” “
+These are used so only one answer can be picked 
+The names in the tag must match for the one answer only effect to work
+#14
+Checkboxes: <input type=”checkbox” name=””> Insert a name
+This allows more than one option to be selected  
+One answer can always be checked off like this:  <input type=”checkbox” name=”” checked=”checked”
