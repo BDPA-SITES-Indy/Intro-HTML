@@ -1,0 +1,35 @@
+HTML V5: HOW TO ADD A  OUTSIDE LINK.
+  To add  Links from an outside URL  use <a>.
+    Href tells <a> where the destination is for link whether it be inside or outside the website.
+To put in your outside URL  you put <a>  href=” OUTSIDE LINK “.
+HTML V6: HOW TO ADD A  INSIDE LINK .
+To add Link from an inside  URL use <a>.
+To put an inside link <a href=”# something>.
+Then put that same something on that other side as I show you <a href=”# something> Something Section </a>.
+But when using this it should connect to something on your website.  
+HTML V7: HOW TO ADD A  IMAGE.
+For an Image was <img  src=” IMAGE”> put whatever your image name is where I put image .
+HTML V8: HOW TO SIZE YOUR IMAGE 
+Between the image name and the last angle, bracket put width=” a number”.
+Then after you put with you add height=” a number”.
+HTML V9: HOW TO PUT AN ELEMENT INSIDE ANOTHER ELEMENT .
+The <head> element and the <body> are both nested inside of the <html> element.
+But the <html> element does not nest in any other element .
+The <body> element is the parent element to the to the <p> element .
+HTML V10: HOW TO HTML FORMS. 
+Forms are used to collect data. 
+The form tag, <form action=” “ meatod=”” >.
+Then you have to put an input element inside your form element.
+One of most common input element the one-line text box and its tag is <input type=” text” name=””> .
+You can change the size by putting the at the end like so  <input type=” text” name=”” size=”50”>, which make it much wider .
+HTML V11: HOW TO ADD LABEL TO TEXT  BOX 
+The label tag as an example <label for="male">Male</label>.
+HTML V12: HOW TO DO A MULTI-TEXT BOX.
+The tag you put between the form beginning and form end.
+ You  can also put headings for you box. 
+This is the beginning <textarea id="w3mission" rows="4" cols="50">.
+This is the end </textarea>.
+The value controls the text of the button .
+HTML V13: HOW TO Do Radio Buttons. 
+The name has to be the same for all radio buttons. 
+The Value is actual sen to the side server.
