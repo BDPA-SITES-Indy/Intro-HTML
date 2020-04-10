@@ -1,0 +1,48 @@
+Video 
+Nme tag corresponds to the href tag
+an href adds a section
+<ul> is an unordered list
+
+video 7
+img src specifies source of the image
+dont have to specify the directory
+img tag doesnt need a closing tag
+
+video 8
+png file is for artwork and images
+width and height resizes images
+can reduce the whole file by opening photo editor
+
+video 9 
+html element is called the root element
+<p>
+
+
+</body
+</p>       is a mismatch element
+a nested element is putting in element into another element
+
+video 10
+forms are used to collect info
+<form action="" method="">
+<!input element will go in here -->
+
+video 11
+form action is basically a container for text
+the label tag creates the text in the text container
+id="firstname"
+
+video 12
+too put a multi-line text box, use the text area tag
+rows and column adds columns and rows to your text box
+if you add a lot of text, it automatically creates a scroll bar
+
+video 13
+radio buttons are buttons that you see on a website
+radio buttons can be used for surveys
+there should only be one option for radio buttons
+
+video 14
+in a checkbox, you can select multiple text boxes at a time.
+<input type+ "checkbox"
+dont close out input element tag
