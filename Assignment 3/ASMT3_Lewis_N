@@ -1,0 +1,47 @@
+Video-6
+Name tag corresponds to the href tag
+a href adds a section
+<ul> unordered list
+
+Video-7
+img src specifies source of the image
+dont have to specify the directory
+img tag doesn't need a closing tag
+
+Video-8
+png file is for artwork and logos
+width and height resizes image
+can reduce the whole file by opening a photo editor
+
+Video-9
+html element is called root element
+<p>
+
+</body>
+</p>       is a mismatch element
+nested element is putting an element inside another element
+
+Video-10
+forms are used to collect information
+<form action="" method="">
+<!-- input element will go in here -->
+
+Video-11
+form action acts like a container for text
+label tag creates the text in text box
+id=firstname
+
+Video 12
+to put a multi-line text box use text area tag
+rows and column attributes add them to your text box
+if you add a lot of text, it automatically creates a scroll bar
+
+Video-13
+radio button are buttons that you see on a website
+radio buttons can be used for surveys
+there should only be on option for radio buttons
+
+Video-14
+in a checkbox you can select multiple boxes at a time
+input tag changes the type of box
+don't have to close the input element tag
