@@ -1,0 +1,44 @@
+Slide 6
+Hashtag tells the anchor tag that it will be linked with something on the webpage.
+The anchor will be linked to your topic
+The anchor tag is the link wherever you want it to go
+Slide 7
+IMG tag doesnt need a closing tag
+Supposed to put the HTML code in a folder 
+Create a folder to put your image inside of
+Slide 8
+You shold use your best images for JPEG
+If your logo or artwork you should use a PNG file
+You can put the wigth and length of the picture in the code
+Slide 9
+Nested elements are elements inside of other elements
+The HTML element is the only element which is not inside of another element
+The body and read element are both rooted inside of the HTML element
+Slide 10
+The form element tag doesnt do anything when its by itself
+For the form element tag to do something you have to put the input tag inside of the form element tag
+The most common input element is the 1 lined text box
+Slide 11
+You can change the label within your code
+You have to tie the label into the input element
+The for attrbute has to match the ID attribute
+Slide 12
+You can set how big your box is going to be
+The browser will automatically put a scroll bar in the text box for you
+The value controls the text button
+Slide 13
+Radio buttons are small circular buttons that you see on websites
+They are used to take surveys or to ask the user for a particular subject
+The key to radio buttons is that you only want the user to be able to select one choice
+Slide 14
+You get to select multiple boxes at one time with the checkbox
+Put the label right after the angel bracket
+You can force one of your topics to be chosen automatically evrytime
+Slide 15
+You can only use numbers
+The input box has a up ad down arrow
+You can set the range of numbers that you can out inside of the number input box
+Slide 16
+In a dropdown list you are supposed to select one option
+You use the select element to create your dropdown list
+You embed the option element inside of the select element

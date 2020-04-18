@@ -1,0 +1,44 @@
+Video 6
+1 an anchor tag links to where you want to go
+2 the # says you are linking to a place in the website
+3 an anchor tag looks like <a href=“#cats”>cats section</a>
+
+ Video 7
+1 if you put the image in the same folder you don't have to specify a location
+2 for the image you tag you put img src=”image.jpg>
+3 <img does not need a closing tag
+
+Video 8
+1 you usually use jpg but you can also use png,gif
+2 to change the size use width=“200” and height=“200”
+3 the image does not change the way its displayed in the website changes
+
+Video 9
+1 hml is the root elements
+2 don't put a closing p elements outside the closing body element ,called mismatch element
+3 nested elements are putting an elements in an elements
+
+Video 10
+1imput elements go inside the form element
+2 form element tag is< form action=””methods””, input tag is input type=“text” name=””
+3 you can change the size by size=”50”
+
+Video11
+1 to declare a label you use <label for=”firstname”>first name:</label>
+2 to put a label the id to you text box has to match what you label for=name
+3 if you use label when you click on the text it also highlights the text box
+
+Video 12
+1 when using a multi line text box you use text area
+2 the 2 main attribute are rows and columns
+3 for a submit button change text to submit
+
+Video 13
+1radio buttons are used to take surveys want them to only pick one
+2the type is radio button
+3  both names have to mach or they will be able to pick multiple
+
+Video 14
+1if you want to pick more than one you use a check box
+2 if you want one to always  be picked you use the checked attribute
+3 it can be de selected by the user

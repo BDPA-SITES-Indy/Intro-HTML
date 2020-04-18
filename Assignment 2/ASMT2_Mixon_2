@@ -1,0 +1,13 @@
+Html= HyperText Markup Language 
+It uses the most recent version of HTML 
+You need an opening tab and a closing tab 
+<br>  means line break and you have to add one for each line 
+You add headers use <h1> or <h2> depending on how many headers 
+An empty element does not need a closing tag because we are not putting anything in between them 
+A comment section lets you add notes without the notes coming up on your websites. 
+&nbsp creates spaces between spaces 
+HTML provides two many ways to make list unordered and ordered.
+An unordered list is created with the <ul> tag.
+An ordered list is created with the <ol> tag.
+But use the <li> tag.  
+
