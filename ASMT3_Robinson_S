@@ -1,0 +1,36 @@
+vid:6
+You have to use the <a> tag to link.
+you can link to almost anything on the web.
+the text that you put in for that link pops up not your link
+vid:7
+You use the img tag for a image.
+You dont need a img closing tag.
+you can put a header on your picture.
+vid:8
+You have to put in width and height.
+they count in pixels when you size your picture.
+tou can also use photo editer to resize your pic.
+vid:9
+Nested elements area element inside of another element.
+the HTML elemnt is usaluy the root element.
+Html is bulit in a nest.
+vid:10
+its mainly use on all websites.
+You need the form tag for this one line text box.
+the input elements go in too the form.
+vid:11
+You can put a label on your text box.
+You can use this method with ypur text box for surveys.
+when ypu
+vid:12
+textera is the multi text box tag.
+You can edit the size of the multi text box.
+you can put a submit button on your text box so your user can sumbit somthing.
+vid:13
+Radio button are use for surveys or options on a website.
+You want the user to only selcet one chosie.
+all of the names in the code have to be the same because to the user the question is the same.
+vid:14
+You can select mutiple boxes.
+you can use the checked element to make the box always selected.
+You can make as many boxes as you want.
