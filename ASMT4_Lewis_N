@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Nadia</title>
+</head>
+<body>
+<h1>My Life</h1>
+<img src="C:\Users\sites\Documents\html foundations\pink.jpg" "width="500" height="300">
+<p><font color="black";>This is a paragraph</p>
+<p><font color="#4287f5";>My name is Nadia. I'm 12 years old and I go to New Augusta North. I'm a cheerleader and I do tumbling classes outside of school. I want to be a dentist, a therapist, or a nurse.  
+<br>
+<p><font color="black";>Here are some of my hobbies/sports</p>
+<ul>
+  <li>Cheer</li>
+  <li>Basketball</li>
+  <li>Tumbling</li>
+</ul>
+<br>
+<br>
+<p><font color="black";>Some things that I like</p>
+<ol>
+  <li>Family</li>
+  <li>Going places</li>
+  <li>Scary movies</li>
+</ol>
+<br>
+<br>
+
+
+<table style="width:100%">
+<tr>
+<th>First Name</th>
+<th>Last Name</th>
+<th>Email</th>
+</tr>
+<tr>
+<td>Nadia</td>
+<td>Lewis</td>
+<td>nadia07@gmail.com</td>
+</tr>
+<tr>
+<td>John</td>
+<td>Lewis</td>
+<td>jlew.123@gmail.com</td>
+</tr>
+<tr>
+<td>Kenzie</td>
+<td>Musgrove</td>
+<td>kenzie_06@gmail.com</td>
+</table>
+<br>
+<form action="" method="">
+<textarea rows=“20” cols=“50”> </textarea> </br>
+</br>
+<label for="first" >First Name </label> <input type="text" placeholder="i.e Nadia" id="first" name="" ></input> </br>
+<label for="last">Last Name <input type="text" id="last" name="" ></input> </br> </label>
+<label for="email">Email <input type="text" id="email" name="" ></input> </br> </label>
+<!-- Input types include submit, Button, Color, Checkbox, email, image -->
+What sports do you like? </br>
+<label for="football">Football <input type="checkbox" checked="checked" id="football" name"" value="Football" >
+<label for="soccer">Soccer <input type="checkbox" id="soccer" name"" value="Soccer">
+<label for="baseball">Baseball <input type="checkbox" id="baseball" name="" value="Baseball" >
+<label for="basketball">Basketball <input type="checkbox" id="basketball" name="" value="Basketball">
+</br>
+Are you enjoying the website so far? </br>
+<label>Yes<input type=radio id="yes" name="yes-no" value="Yes"> </br>
+<label>No<input type=radio id="no" name="yes-no" value="Yes">
+</br>
+<input type="submit" value="Submit">
+</form>
+</body> (edited) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
