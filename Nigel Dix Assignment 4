@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>title>All About Me </title>
+</head>
+<body>
+<p>My name is Nigel Dix. I attend New Augusta North. I am 13 .I do many sports such as, track, wresling, basketball, and football.Football is my favorite sport because you can hit someone without getting in truoubl for it.Also i like spoerts were you are always moving ,so that is another reason why football is my favorite sport. </p>
+&nbsp
+<p font color= "00FF00">I like going to school.It has its ups and downs.One of the upsodesof goign to school i that i will get t0 see my friends evryday.But one of the down sides is that I have to wake up at 7:15 everymorning.</p>
+<br>
+<p>I have alot of family that live all over the world.We have a family reunion every year..and this year was going to be our 50th but since caronavirus they are thinking about cancelling this year or they might just postpone it.I would enjoytogo to LSU one day but that only is i get recruited forfootball or track or wresling.</P>
+  p {
+color:blue;
+}
+body{
+  background-color:green
+}
+h1 {
+  color:FCBA03;
+}
+</body>
+</html>
