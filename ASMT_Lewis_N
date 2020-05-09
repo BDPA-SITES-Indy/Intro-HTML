@@ -1,0 +1,18 @@
+#family {
+ background-color:gray;
+ color:purple;
+ }
+<h1 id="family">My Family</h1>
+p {
+ color: red;
+ }
+ body {
+ background-color: green;
+ }
+img {
+max-width: 100%;
+height: auto;
+}
+h1 {
+ color: #FCBA03;
+ }
