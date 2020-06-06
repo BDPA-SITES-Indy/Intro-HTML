@@ -1,0 +1,144 @@
+<!Doctype html>
+<html>
+<head>
+<style>
+h2 {
+  background-color: purple;
+}
+p {
+  color:red;
+}
+p{
+  color:green;
+}
+h2 {
+  color:#11ad29
+}
+</style>
+<link rel="stylesheet" herf="style.css">
+
+<title>My wedsite</title>
+</head>
+<body>
+<h1> <font color="00FF00">Track spikes </font color="00FF00"></h1>
+  <img src="viperfly.jpg" alt="viperfly" height="200" width="400">
+<p>Nike just came out with it's lastest running shoes and spikes that could change the game.<p>
+&nbsp;&nbsp;
+<br></br>
+<p>There are a few things that make a good track spike.<p>
+<ol>
+  <li>How well it holds your foot in place</li>
+      <li>Responsiveness and energy return</li>
+      <li>The weight of the shoe</li>
+  </ol>
+  <br> </br>
+<p>Nike's new track spike has all of this and more in their new VaporFlys, with a new carban fiber plate method called Custom Fiber Placement this shoe will allow varying levels of flexablity while provding higher levels of  responsiveness and energy return. Nike says it will in prove running economy by 4%.This is how the worlds best runners would preform with the ViperFlys. </p>
+<br>
+<table style="width:40%">
+  <tr>
+    <th>Track Runner</th>
+    <th>Track event</th>
+    <th>Current PR in event</th>
+    <th>ViperFlys time</th>
+
+  </tr>
+  <tr>
+    <td>Christian Coleman</td>
+    <td>100 meter dash</td>
+    <td>9.76</td>
+    <td>9.32</td>
+  </tr>
+  <tr>
+    <td>Usian Bolt</td>
+    <td>100 meter dash</td>
+    <td>9.58</td>
+    <td>9.20</td>
+  </tr>
+  <tr>
+    <td>Justin Gatlin</td>
+    <td>100 meter dash</td>
+    <td>9.74</td>
+    <td>9.35</td>
+  </tr>
+  <tr>
+    <td>Noah Lyles</td>
+    <td>200 meter dash</td>
+    <td>19.50</td>
+    <td>18.87</td>
+  </tr>
+  <tr>
+    <td>Usian Bolt</td>
+    <td>200 meter dash</td>
+    <td>19.19</td>
+    <td>18.42</td>
+  </tr>
+  <tr>
+    <td>Justin Gatlin</td>
+    <td>200 meter dash</td>
+    <td>19.57</td>
+    <td>18.78</td>
+  </tr>
+</table>
+<p>The times shown on the would smash the current 100 meter record of 9.58 and current 200 record of 19.19.Which is why they where close to being banned from the Olympic,if not the shoe was not released by a certin time before the Olympic it would not be allowed to be in the Olympic.<p>
+
+  <br></br>
+  <p>
+  <a  href="https://qz.com/1796016/nikes-2020-olympics-shoes-use-features-from-its-vaporfly-design/">
+ For More information ViperFly and other running tech. </a>
+ <p>
+ <br></br>
+  <h2>Track suits</h2>
+    <img src="track suit pic.jpg" alt="track suit pic" height="200" width="400">
+    <p> Track suits have taken a lot of evlotion over the years.It went from long sleves and pants to baggy short and many more changes to get to where we are to day. <p>
+      <ul>
+        <li>1896:Shorts were consistently long,while sleeve lenght varied among competitors</li>
+            <li>1912 the Olymipic Report outlined each competitor shall wear a jersy with shoert sleeves and drawers to knees </li>
+            <li> 1980, tiny shorts were a common sight on the Olympic track</li>
+        </ul>
+    <form action="" method=""
+    <textarea rows="15" cols="50"> </textarea> <br>
+  </br>
+    <label for="First name">First name:</label>
+  <input type="text"  name=""><br><br>
+  <label for="last name">Last name:</label>
+  <input type="text"  name=""><br><br>
+  <label for="email">Last name:</label>
+  <input type="text" name=""><br><br>
+  <input type="submit" value="Submit"><br>
+</br>
+
+  <input type="button" value="submit">Submit
+  <br> </br>
+Who is your favorite track runnner?<br></br>
+  <label for "Christian Coleman">Christian Coleman <input type="checkbox"id="Christian Coleman" name"" value="Christian Coleman">
+  <label for "Usian Bolt">Usian Bolt <input type="checkbox"id="Usian Bolt" name"" value="Usian Bolt">
+  <label for "Justin Gatlin">Justin Gatlin <input type="checkbox"id="Justin Gatlin" name"" value="Justin Gatlin">
+  <label for "Noah Lyles">Noah Lyles <input type="checkbox"id="Noah Lyles" name"" value="Noah Lyles"><br></br>
+
+
+<p>Do you run track?<p>
+<label>yes<input type=radio id="yes-no" name="" value="yes"> <br>
+  <label>no<input type=radio id="yes-no" name="" value="no"> <br>
+  <p>  How am I doing on my websites so far? <p>
+    <label for "Good">Good<input type="checkbox" id="Good"  name"" value="Good">
+  <label for "Ok">Ok<input type="checkbox" id="Ok" name"" value="Ok">
+    <label for "Bad">Bad<input type="checkbox" id="Bad" name"" value="Bad"><br>
+
+<p>Rate my website.<p>
+<input type="number" min="1" max="10">
+</form>
+</body>
+</html>
+CSS:
+p {
+  color:red;
+}
+  {
+  color:green;
+}
+
+
+h2 {
+  color:#11ad29
+}
+
