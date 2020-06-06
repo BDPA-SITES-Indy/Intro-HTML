@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Me</title>
+</head>
+<body>
+<!-- this a comment -->
+	<p> My name is John Lewis and I go to New Augusta North. I am 13 years old and I was born and raised in Indianapolis, Indiana. I like to play basketball and participate in a lot of engineering activities. My dream job is to be a mechanical engineer.  </p>
+&nbsp;&nbsp;
+<p> 
+ <ol>
+<li>video games</li>
+<li>running</li>
+<li>basketball</li>
+</ol>
+<br>
+<br>
+<ul>
+<li>phone</li>
+<li>home</li>
+<li>family</li>
+</ul>
+<br>
+<br>Which class do you want to join? </br>
+<label for="none">None <input type="checkbox" checked="checked" id="none" name"" value="None" >
+<label for="html">Html <input type="checkbox" id="html" name"" value="hmtl">
+<label for="css">css <input type="checkbox" id="css" name="" value="css" >
+<label for="basketball">Basketball <input type="checkbox" id="basketball" name="" value="Basketball">
+<label for="java">java <input type="checkbox" id="java" name="" value="java">
+<label for="javascript">Basketball <input type="checkbox" id="javascript" name="" value="javascript">
+
+</br>
+Which class do you want to join? </br>
+<label>fiundations<input type=radio id="foundations" name="yes-no" value="foundations"> </br>
+<label>front end<input type=radio id="front end" name="yes-no" value="front end">
+<label>back end<input type=radio id="back end" name="yes-no" value="back end">
+<label>advanced<input type=radio id="advanced" name="yes-no" value="advanced">
+</br>
+<input type="submit" value="Submit">
+</form>
+</body> (edited) 
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Foundations Class</title>
+</head>
+<body>
+<h3>Mission Statement</h3>
+<p> Our  mission is to be the premier leader in STEM that engages, empowers, and drives thought leadership for our diverse community. </p>
+<h3>Vision Statement</h3>
+<p> The vision of the Indianapolis BDPA is to be the premier leader in STEM that engages, empowers, and drives thought leadership for our diverse community.</p>
+<img src="C:\Users\sites\Documents\html foundations\studentscoding.jpg
+
+<a href="file:///C:/Users/sites/Documents/html%20foundations/New%20folder/page1.html#"> Sign up page</a>
+
+
+<a href="https://github.com/BDPA-SITES-Indy/Intro-HTML">Our Intro to Github</a>
+
+
+<a href="https://indysiteshtml-6ai2912.slack.com">Slack</a>
+
+
+<a href="https://bdpa-indy.org">BDPA Indy website</a>
+
+<!-- Button to open the modal -->
+<button onclick="document.getElementById('id01').style.display='block'">Sign Up</button>
+<!-- The Modal (contains the Sign Up form) -->
+<div id="id01" class="modal">
+  <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">times;</span>
+  <form class="modal-content" action="/action_page.php">
+    <div class="container">
+      <h1>Sign Up</h1>
+      <p>Please fill in this form to create an account.</p>
+      <hr>
+      <label for="email"><b>Email</b></label>
+      <input type="text" placeholder="Enter Email" name="email" required>
+
+      <label for="psw"><b>Password</b></label>
+      <input type="password" placeholder="Enter Password" name="psw" required>
+
+      <label for="psw-repeat"><b>Repeat Password</b></label>
+      <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+
+      <label>
+        <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+      </label>
+
+      
+
+     <div class="clearfix">
+        <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+        <button type="submit" class="signup">Sign Up</button>
+      </div>
+    </div>
+  </form>
+</div>]
+
+
+
+
+<table style="width:100%">
+  <tr>
+    <th>Week</th>
+    <th>What kind of html</th>
+    <th>What we learned</th>
+  </tr>
+  <tr>
+    <tdWeek 1</td>
+    <td>Introduction to Html</td>
+    <td>HTML means hyper text markup languuage</td>
+
+ <tdWeek 2</td>
+    <td>Creating my first webpage</td>
+    <td>Start every Html page with <!doctype html></td>
+ 
+<tdWeek 3</td>
+    <td>Linebreaks, comments, and spaces</td>
+    <td><br> breaks up the code into seperate parts</td>
+ 
+<tdWeek 4</td>
+    <td>Ordered and unordered lists</td>
+    <td>Use ol for an ordered list, and ul for an unoredred list</td>
+
+ <tdWeek 5</td>
+    <td>Creating a table</td>
+    <td>to make a table use the tr tag</td>
+
+ <tdWeek6</td>
+    <td>Creating a web link</td>
+    <td>use <a href to start the link.</td>
+ 
+<tdWeek 7</td>
+    <td>Nested elements</td>
+    <td>an element inside of an element is called the child element </td>
+ 
+<tdWeek 8</td>
+    <td>radio buttons</td>
+    <td>they are used to take surveys or ask someone a yes or no question</td>
+ 
+<tdWeek 9</td>
+    <td>Checkboxes</td>
+    <td>Checkboxes are used to have multiple answers for a question</td>
+ 
+<tdWeek 10</td>
+    <td>Number input box</td>
+    <td>Put a number in the box to represent the amount of something</td>
+
+
