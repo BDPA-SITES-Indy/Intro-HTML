@@ -1,0 +1,16 @@
+div{
+  background-image: url("https://tse2.mm.bing.net/th?id=OIP.4bXBwlNQ8ixLUTUIaFBLWAHaFi&pid=Api");
+   background-repeat: no-repeat;
+ }
+p1{
+  background-color:lightgrey;
+  opacity: 0.3;
+  color: MediumBlue;
+  opacity: 1;
+}
+p2{
+  border-style: solid;
+}
+h2{
+ font-style: italic;
+}
