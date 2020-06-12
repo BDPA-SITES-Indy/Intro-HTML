@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<div class="topnav">
+  <a class="active" href="#https://github.com/BDPA-SITES-Indy/Intro-HTML">Github</a>
+  <a href="#https://indysiteshtml-6ai2912.slack.com">Slack</a>
+  <a href="#http://www.bdpa-indy.org/">BDPA</a>
+  <a href="#file:///C:/Users/sites/Documents/html%20foundations/cirriculum.html">Cirriculum page</a>
+  <a href="#file:///C:/Users/sites/Documents/html%20foundations/New%20folder/signup.html">Sign up page</a>
+
+</div>
+
+<div style="padding-left:16px">
+<h2>Foundations Class</h2>
+</div>
+  
+
+</head>
+<body>
+<h3>Mission Statement</h3>
+<p> Our  mission is to be the premier leader in STEM that engages, empowers, and drives thought leadership for our diverse community. </p>
+<h3>Vision Statement</h3>
+<p> The vision of the Indianapolis BDPA is to be the premier leader in STEM that engages, empowers, and drives thought leadership for our diverse community.</p>
+<img src="C:\Users\sites\Documents\html foundations\studentscoding.jpg" "height="100" width="300">
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>Week</th>
+    <th>Type of HTML</th>
+    <th>What we learned</th>
+  </tr>
+  <tr>
+    <td>Week 1</td>
+    <td>What is HTML?</td>
+    <td>Hyper Text Markup Language</td>
+  </tr>
+  <tr>
+    <td>Week 2</td>
+    <td>Creating first webpage</td>
+    <td>start each website with !doctype html</td>
+  </tr>
+  <tr>
+    <td>Week 3</td>
+    <td>Line breaks</td>
+    <td>use br for space</td>
+  </tr>
+  <tr>
+    <td>Week 4</td>
+    <td>ordered/unordered lists</td>
+    <td>use ol for an ordered list, and ul for an unordered list</td>
+  </tr>
+  <tr>
+    <td>Week 5</td>
+    <td>Making a table</td>
+    <td>Create columns using the th tag</td>
+  </tr>
+  <tr>
+    <td>Week 6</td>
+    <td>Making a web link</td>
+    <td>Using a href links an outisde url</td>
+  </tr>
+<tr>
+    <td>Week 7</td>
+    <td>Making a web link within the same page</td>
+    <td>Use li to make a list</td>
+  </tr>
+<tr>
+    <td>Week 8</td>
+    <td>Add an image to the web page</td>
+    <td>Use image src= to start the image </td>
+  </tr>
+  <tr>
+    <td>Week 9</td>
+    <td>Nested elements</td>
+    <td>These are elements that are inside other elements</td>
+  </tr>
+<tr>
+    <td>Week 10</td>
+    <td>One line text box</td>
+    <td>Put form action to make a one line text box</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Sign-up Page</h1>
+
+<form action="/action_page.php">
+  <label for="fname">First name: </label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name: </label>
+  <input type="text" id="lname" name="lname"><br><br>
+<label for="eaddress">E-mail address: </label>
+  <input type="text" id="eaddress" name="eaddress"><br><br>
+<label for="pnumber">Phone number: </label>
+  <input type="text" id="pnumber" name="pnumber"><br><br>
+<label for="zcode">Zip code: </label>
+  <input type="text" id="zcode" name="zcode"><br><br>
+<label for="age">Age: </label>
+  <input type="text" id="Age" name="Age"><br><br>
+<label for="school">School: </label>
+  <input type="text" id="school" name="School"><br><br>
+<label for="Grade">Grade: </label>
+  <input type="text" id="grade" name="grade"><br><br>
+  <input type="submit" value="Submit">
+
+</form>
+
+
+
+<br>Which class did you want to join? </br>
+<label for="Foundations">Foundations <input type="checkbox" checked="checked" id="foundations" name"" value="Foundations" >
+<label for="front end">Front end <input type="checkbox" id="front end" name"" value="Front end">
+<label for="backend">Backend <input type="checkbox" id="backend" name="" value="Backend" >
+<label for="advanced">Advanced <input type="checkbox" id="advnaced" name="" value="Advanced">
+</br>
+What coding experiences do you have? </br>
+<label>none<input type=radio id="None" name="yes-no" value="None"> </br>
+<label>HTML<input type=radio id="no" name="yes-no" value="HTML">
+</br>
+<label>css<input type=radio id="CSS name="yes-no" value="CSS"> </br>
+<label>java<input type=radio id="Java" name="yes-no" value="Java"> </br>
+<label>javascript<input type=radio id="Javascript" name="yes-no" value="Javascript"> </br>
+<label>python<input type=radio id="Pyhthon" name="yes-no" value="Python"> </br>
+<label>other<input type=radio id="Other" name="yes-no" value="Other"> </br>
+<input type="submit" value="Submit">
+</form>
+</body> 
+</html>
+
